@@ -1,6 +1,6 @@
 {
-  "name": "Lupa",
-  "description": "Lupa - masa ferrosa reducida producida al finalizar la actividad de un horno bajo.",
+  "name": "Forjar",
+  "description": "Forjar - dar forma a un metal a través de calor y compresión.",
   "icon": "pyrotech:bloom",
   "sortnum": 5
 }

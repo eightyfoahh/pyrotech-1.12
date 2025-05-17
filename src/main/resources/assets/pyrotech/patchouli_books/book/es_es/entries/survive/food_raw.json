@@ -7,7 +7,7 @@
       "type": "spotlight",
       "item": "pyrotech:strange_tuber",
       "link_recipe": true,
-      "text": "Los $(item)Tubérculos sospechosos$() son más comúnmente conseguidos excavando tierra con césped a mano limpia y ocasionalmente obtenido en hierbas.$(p)$(info_es) Aunque sepan más que nada a tierra y madera, los $(item)Tubérculos sospechosos$() son comestibles."
+      "text": "Los $(item)Tubérculos sospechosos$() son más comúnmente conseguidos escarbando tierra con césped a mano limpia y ocasionalmente obtenido en hierbas.$(p)$(info_es) Aunque sepan más que nada a tierra y madera, los $(item)Tubérculos sospechosos$() son comestibles."
     },
     {
       "type": "spotlight",
