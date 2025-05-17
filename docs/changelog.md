@@ -1,5 +1,20 @@
 # Changelog
 
+**1.6.19**
+
+* **Fixed:**
+    * Tanks should not disappear when using them in a crafting grid [(#447)](https://github.com/codetaylor/pyrotech-1.12/issues/447)
+    * Buckets should break upon reaching zero durability in a crafting grid
+
+* **Changed:**
+    * The Pit Kiln's efficient tool has been changed from axe to shovel [(#412)](https://github.com/codetaylor/pyrotech-1.12/issues/412)
+    * The Campfire's efficient tool has been changed from axe to shovel
+
+* **Added:**
+    * Spanish (es_es) localization [(#450)](https://github.com/codetaylor/pyrotech-1.12/pull/450)
+
+---
+
 **1.6.18**
 
 * **Added:**
