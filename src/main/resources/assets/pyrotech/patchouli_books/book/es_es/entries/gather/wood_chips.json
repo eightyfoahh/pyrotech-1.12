@@ -1,5 +1,5 @@
 {
-  "name": "Madera, Serrín",
+  "name": "Madera, Virutas",
   "icon": "pyrotech:rock:7",
   "category": "gather_material",
   "pages": [
@@ -7,7 +7,7 @@
       "type": "spotlight",
       "item": "pyrotech:rock:7",
       "link_recipe": true,
-      "text": "El $(item)Serrín$() es un subproducto de cortar en un $(item)Tronco para cortar$() y cortar madera en un $(thing)Aserradero$()."
+      "text": "Las $(item)Virutas de madera$() son un subproducto de cortar en un $(item)Tronco para cortar$() y cortar madera en un $(thing)Aserradero$()."
     },
     {
       "type": "relations",

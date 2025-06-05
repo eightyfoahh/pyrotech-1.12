@@ -6,7 +6,7 @@
     {
       "type": "crafting",
       "recipe": "pyrotech:tech/machine/stone_sawmill",
-      "text": "Un $(item)Aserradero de piedra$() realiza la misma labor que un $(item)Tronco para cortar$(), pero más rapido.$(p)$(info_es) Los $(thing)Aserraderos$() producen $(item)Serrín$() durante su operación."
+      "text": "Un $(item)Aserradero de piedra$() realiza la misma labor que un $(item)Tronco para cortar$(), pero más rapido.$(p)$(info_es) Los $(thing)Aserraderos$() producen $(item)Virutas de madera$() durante su operación."
     },
     {
       "type": "relations",
