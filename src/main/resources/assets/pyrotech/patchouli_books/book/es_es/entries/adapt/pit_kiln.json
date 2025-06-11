@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "Para crear y usar un $(item)Horno de tierra$() necesitarás un $(item)Horno de tierra$(), cuatro $(item)Pajas$() para una $(item)Paca de paja$(), tres $(thing)Troncos$(), y un $(l:appendix/ignition)dispositivo encendedor verificado$().$(p)Dos montones de $(item)Fibras de planta secas$() pueden ser atadas juntas para crear $(item)Paja$()."
+      "text": "Para crear y usar un $(item)Horno de tierra$() necesitarás un $(item)Horno de tierra$(), cuatro $(item)Pajas$() para una $(item)Bala de paja$(), tres $(thing)Troncos$(), y un $(l:appendix/ignition)dispositivo encendedor verificado$().$(p)Dos montones de $(item)Fibras de planta secas$() pueden ser atadas juntas para crear $(item)Paja$()."
     },
     {
       "type": "crafting",
@@ -25,7 +25,7 @@
     },
     {
       "type": "text",
-      "text": "Para usar un $(item)Horno de tierra$(), sigue estos pasos:$(p)  $(l:adapt/pit_kiln#step_1)1. Coloca el horno$(/l)$(br)  $(l:adapt/pit_kiln#step_2)2. Agrega ingredientes$(/l)$(br)  $(l:adapt/pit_kiln#step_3)3. Agrega una Paca de paja$(/l)$(br)  $(l:adapt/pit_kiln#step_4)4. Agrega Troncos$(/l)$(br)  $(l:adapt/pit_kiln#step_5)5. Enciende$(/l)$(br)  $(l:adapt/pit_kiln#step_6)6. Espera$(/l)$(p)La siguiente página ilustra la construcción de un $(item)Horno de tierra$() y las subsecuentes páginas proveen detalles vitales y fundamentales adicionales."
+      "text": "Para usar un $(item)Horno de tierra$(), sigue estos pasos:$(p)  $(l:adapt/pit_kiln#step_1)1. Coloca el horno$(/l)$(br)  $(l:adapt/pit_kiln#step_2)2. Agrega ingredientes$(/l)$(br)  $(l:adapt/pit_kiln#step_3)3. Agrega una Bala de paja$(/l)$(br)  $(l:adapt/pit_kiln#step_4)4. Agrega Troncos$(/l)$(br)  $(l:adapt/pit_kiln#step_5)5. Enciende$(/l)$(br)  $(l:adapt/pit_kiln#step_6)6. Espera$(/l)$(p)La siguiente página ilustra la construcción de un $(item)Horno de tierra$() y las subsecuentes páginas proveen detalles vitales y fundamentales adicionales."
     },
     {
       "type": "image",
@@ -61,7 +61,7 @@
       "type": "image",
       "title": "3. Agrega Paja",
       "anchor": "step_3",
-      "text": " Luego, agrega una $(item)Paca de paja$().",
+      "text": " Luego, agrega una $(item)Bala de paja$().",
       "images": [
         "pyrotech:textures/gui/book/illustration/pit_kiln_03.png"
       ]
