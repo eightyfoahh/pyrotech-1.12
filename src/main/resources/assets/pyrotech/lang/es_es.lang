@@ -149,13 +149,13 @@ tile.pyrotech.faucet_brick.name=Grifo refractario
 #------------------------------------------------------------------------------
 
 item.pyrotech.tinder.name=Yesca
-item.pyrotech.marshmallow.name=Marshmallow
-item.pyrotech.marshmallow.roasted.name=Marshmallow asado
-item.pyrotech.marshmallow.burned.name=Marshmallow quemado
-item.pyrotech.marshmallow.stick.empty.name=Palo de marshmallow
-item.pyrotech.marshmallow.on.stick.name=Marshmallow en una brocheta
-item.pyrotech.marshmallow.on.stick.roasted.name=Marshmallow asado en brocheta
-item.pyrotech.marshmallow.on.stick.burned.name=Marshmallow quemado en brocheta
+item.pyrotech.marshmallow.name=Malvavisco
+item.pyrotech.marshmallow.roasted.name=Malvavisco asado
+item.pyrotech.marshmallow.burned.name=Malvavisco quemado
+item.pyrotech.marshmallow.stick.empty.name=Palo de malvavisco
+item.pyrotech.marshmallow.on.stick.name=Malvavisco en un palo
+item.pyrotech.marshmallow.on.stick.roasted.name=Malvavisco asado en un palo
+item.pyrotech.marshmallow.on.stick.burned.name=Malvavisco quemado en un palo
 item.pyrotech.barrel.lid.name=Tapa de barril
 
 tile.pyrotech.kiln_pit.name=Horno de tierra
