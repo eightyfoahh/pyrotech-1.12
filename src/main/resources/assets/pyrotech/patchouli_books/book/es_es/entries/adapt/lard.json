@@ -1,12 +1,12 @@
 {
-  "name": "Manteca de animal",
+  "name": "Grasa animal",
   "icon": "pyrotech:material:49",
   "category": "adapt_butchery",
   "pages": [
     {
       "type": "spotlight",
       "item": "pyrotech:material:49",
-      "text": "$(info_es) La $(item)Manteca de animal$() es conseguida procesando $(item)Cadáveres$().$(p)$(info_es) La $(item)Manteca de animal$() puede ser derretida para obtener $(item)Aceite de lámpara$() usando un $(thing)Horno de crisol$()."
+      "text": "$(info_es) La $(item)Grasa animal$() es conseguida procesando $(item)Cadáveres$().$(p)$(info_es) La $(item)Grasa animal$() puede ser derretida para obtener $(item)Aceite de lámpara$() usando un $(thing)Horno de crisol$()."
     },
     {
       "type": "relations",
